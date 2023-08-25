@@ -1,0 +1,26 @@
+== uart_tx ===
+
+   Number of wires:                135
+   Number of wire bits:            178
+   Number of public wires:          12
+   Number of public wire bits:      37
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                166
+     $_ANDNOT_                      30
+     $_AND_                          3
+     $_AOI3_                         3
+     $_AOI4_                         1
+     $_DFF_P_                       25
+     $_MUX_                         40
+     $_NAND_                         9
+     $_NOR_                          2
+     $_NOT_                         11
+     $_OAI3_                         9
+     $_ORNOT_                        5
+     $_OR_                          20
+     $_XNOR_                         1
+     $_XOR_                          7
+
+
