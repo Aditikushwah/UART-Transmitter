@@ -1,6 +1,6 @@
 # UART-Transmitter
-**UART communication protocol
-In electronics is the way with the help of which the devices communicate with
+UART communication protocol
+In electronics, it is the way with the help of which the devices communicate with
 each other is called communication protocol.
 
 There are many protocols which are –
@@ -24,5 +24,5 @@ Only uses two wires
 No clock signal is necessary
 The structure of the data packet can be changed as long as both sides are set up
 for it.
-Well-documented and widely used method**
+Well-documented and widely used method.
 
